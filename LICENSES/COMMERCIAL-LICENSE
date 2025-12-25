@@ -1,8 +1,49 @@
-# RMDDI-E™ Commercial License
+RMDDI-E™ Commercial License Agreement
+=====================================
 
-RMDDI-E™ software is dual-licensed:
+This Commercial License Agreement ("Agreement") is between Charged Technology Solutions, Inc. ("Licensor") and the Licensee ("You").
 
-1. **GPLv2** for open-source and non-commercial use.
-2. **Commercial License** for proprietary use, redistribution in commercial products, or integration into competing offerings.
+1. License Grant
+----------------
+Licensor grants Licensee a non-exclusive, non-transferable, worldwide license to:
+- Integrate RMDDI-E™ into proprietary products or solutions.
+- Modify RMDDI-E™ for internal or commercial purposes.
+- Distribute, sell, or sublicense products containing RMDDI-E™ as authorized in this agreement.
 
-For commercial licensing inquiries, contact: contact@chargedtechsolutions.com
+2. Restrictions
+---------------
+Licensee may NOT:
+- Redistribute RMDDI-E™ under any open-source license.
+- Use RMDDI-E™ in a competing driver stack or derivative work that replicates its functionality without written permission.
+- Transfer, sublicense, or resell the RMDDI-E™ software outside the terms of this license without prior consent.
+- Remove or alter copyright, trademark, or licensing notices in RMDDI-E™ files.
+
+3. Fees and Payment
+-------------------
+- Licensee shall pay Licensor a licensing fee as agreed in a separate invoice or contract.
+- Failure to pay the agreed fee constitutes a breach of this Agreement.
+
+4. Intellectual Property
+------------------------
+- Licensor retains all rights, title, and interest in RMDDI-E™.
+- Licensee acquires no ownership or IP rights under this license.
+
+5. Support and Maintenance
+--------------------------
+- Licensor may provide updates, bug fixes, or consulting services under separate terms.
+
+6. Warranty and Liability
+------------------------
+- RMDDI-E™ is provided "AS IS" without warranties of any kind.
+- Licensor shall not be liable for damages arising from the use of RMDDI-E™.
+
+7. Termination
+--------------
+- This license terminates automatically if Licensee violates any terms of this Agreement.
+- Upon termination, Licensee must cease all use and distribution of RMDDI-E™.
+
+8. Governing Law
+----------------
+This Agreement is governed by the laws of the State of California, USA.
+
+By using RMDDI-E™ commercially, Licensee agrees to these terms.
