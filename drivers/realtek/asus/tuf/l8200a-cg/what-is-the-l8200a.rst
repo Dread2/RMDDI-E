@@ -7,14 +7,14 @@ The **L8200A** is a ASUS Exclusive Gigabit Ethernet Controller developed by **Re
 
 .. container:: figures-side-by-side
 
-   .. figure:: images/asus-tuf-x570-plus-wifi.jpg
+   .. figure:: ../images/asus/l8200a/asus-tuf-gaming-x570-plus-wifi.jpeg
       :alt: ASUS TUF X570 PLUS WiFi motherboard
       :align: left
       :width: 48%
 
       Figure 1 – ASUS TUF X570 PLUS WiFi motherboard that uses the L8200A PHY.
 
-   .. figure:: images/l8200a.png
+   .. figure:: ../images/asus/l8200a/l8200a.png
       :alt: L8200A QFN-32 package on ASUS TUF X570 PLUS WiFi motherboard
       :align: right
       :width: 48%
