@@ -46,10 +46,10 @@ Hardware Identifiers
      - RTL8168 / RTL8111 / RTL8411 PCIe GbE family
    * - Subsystem ID
      - ``0x87C31043``
-     - ASUS TUF-series customized implementation (Revision 26)
+     -  Specific Board / Chipset (ASUS)
    * - Revision
      - ``26``
-     - ASUS-specific silicon / PHY configuration revision
+     - Realtek-specific silicon / PHY configuration revision
 
 Supported Motherboards
 ----------------------
